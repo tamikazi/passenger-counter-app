@@ -1,0 +1,32 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f894f3",
+        "activityBar.background": "#f894f3",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#727808",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#f894f3",
+        "panel.border": "#f894f3",
+        "sash.hoverBorder": "#f894f3",
+        "sideBar.border": "#f894f3",
+        "statusBar.background": "#f564ee",
+        "statusBar.border": "#f564ee",
+        "statusBar.debuggingBackground": "#64f56b",
+        "statusBar.debuggingBorder": "#64f56b",
+        "statusBar.debuggingForeground": "#15202b",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f234e9",
+        "statusBarItem.remoteBackground": "#f564ee",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#f894f3",
+        "titleBar.activeBackground": "#f564ee",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.border": "#f564ee",
+        "titleBar.inactiveBackground": "#f564ee99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#f564ee",
+    "cmake.configureSettings": {}
+}
